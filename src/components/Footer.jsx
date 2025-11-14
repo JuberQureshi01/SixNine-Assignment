@@ -56,7 +56,7 @@ export default function Footer() {
   <div className="container relative pb-10 md:pb-30 lg:pb-44 pt-14">
     <div className=" absolute gap-44  lg:flex top-[-280%] md:top-[-190%] lg:top-0  lg:gap-80 flex flex-col lg:flex-row justify-between items-center md:gap-88  ">
       <div className=" text-sm md:text-[1.1rem] flex gap-12 md:gap-56 lg:gap-20  text-[#E7E8E0]">
-      <Link to="#" className="item" >Juber Qureshi</Link>
+      <Link to="#" className="item" >Arya college</Link>
       <Link to="#" className="item">Instagram</Link>
       <Link to="#" className="item">YouTube</Link>
     </div>
